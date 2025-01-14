@@ -7,14 +7,6 @@
 [![Video Label](http://img.youtube.com/vi/VkmCQ2mdMZw&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G/0.jpg)](https://youtu.be/VkmCQ2mdMZw&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G)
 https://youtu.be/VkmCQ2mdMZw?si=cJ5OQiWyXd_8QRcq
 
-# 📝프로젝트 결과물
-
----
-
-프로젝트 깃허브(Github)
-
-https://github.com/koko2807/MSA9_MINI_TEAM2
-
 # 📝프로젝트 소개
 
 ---
