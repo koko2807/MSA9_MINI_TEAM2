@@ -49,12 +49,6 @@
 
 ---
 
-## 🎥 **프로젝트 발표 영상**  
-
-[**발표 영상 링크**](https://www.youtube.com/watch?v=VkmCQ2mdMZw&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G&index=2)  
-
----
-
 ## 🎫 **ERD**  
 ![전자 도서관 (2)](https://github.com/user-attachments/assets/460d702b-5b23-464c-9f81-3c6b7f338d85)
 
